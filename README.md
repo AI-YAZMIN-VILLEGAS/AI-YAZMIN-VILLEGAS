@@ -89,8 +89,7 @@
 </a>
 
 
-
-### ⚙️ &nbsp;GitHub Analytics
+<h2 align="left">GitHub Analytics</h2>
 
 <p align="center">
 <a href="https://github.com/AI-YAZMIN-VILLEGAS">
@@ -99,7 +98,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<h2 align="left">Connect with Me</h2>
 
 <p align="center">
 <a href="https://www.diveintodeeplearning.com"><img src="https://img.shields.io/badge/-diveintodeeplearning.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
