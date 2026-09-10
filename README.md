@@ -1,4 +1,4 @@
-![AI Banner](https://raw.githubusercontent.com/AI-YAZMIN-VILLEGAS/images/master/data-science-portolio2.png)
+![Data Science Portfolio](https://github.com/AI-YAZMIN-VILLEGAS/images/raw/refs/heads/master/data-science-portolio2.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Yazmin Villegas</h2>
 
