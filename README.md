@@ -32,6 +32,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -46,6 +47,7 @@
 <p align="center">
 <a href="https://www.diveintodeeplearning.com"><img src="https://img.shields.io/badge/-diveintodeeplearning.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yazmin-villegas-analista-de-datos/?locale=en-US"><img src="https://img.shields.io/badge/-Yazmin%20Villegas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:yazminsarahivillegas@gmail.com"><img src="https://img.shields.io/badge/-yazminsarahivillegas@gmaial.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 -----
