@@ -1,6 +1,6 @@
 ![Data Science Portfolio](https://github.com/AI-YAZMIN-VILLEGAS/images/raw/refs/heads/master/data-science-portolio2.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Yazmin Villegas</h2>
+<h2 align="center">Hey there! I'm Yazmin Villegas 👋</h2>
 
 💡 &nbsp;I enjoy exploring new technologies and developing data-driven solutions using **Data Science, Artificial Intelligence, Machine Learning, and Deep Learning**.\
 💻 &nbsp;I’m a **freelancer** focused on transforming data into meaningful insights and building intelligent solutions for real-world problems.\
